@@ -6,6 +6,14 @@
 > Software Engineer | Data Engineer in Transition | MSc in Computer Science
 <br />
 
+<p>Soy Ingeniero de Sistemas con más de 6 años de experiencia desarrollando soluciones de software en diversos entornos (Java, PHP, Python, Node.js, Vue.js), y una sólida formación académica con maestría en Ciencias de la Computación.
+
+Me especialicé en visión por computador y deep learning durante mis estudios, pero hoy enfoco mi carrera hacia la Ingeniería de Software e Ingeniería de Datos, donde doy soluciones optimizadas para los procesos de cada institución.
+
+Considero que el aprendizaje continuo es fundamental en tecnología. Por eso, dedico parte de mi tiempo a estudiar nuevas herramientas y arquitecturas orientadas a datos, como Airflow, Spark, Dbt, y soluciones cloud.
+
+Me adapto fácilmente a nuevos entornos, trabajo bien en equipo y estoy siempre abierto a compartir y recibir ideas. Busco oportunidades desafiantes, en especial en el campo de la ingeniería de datos y proyectos de impacto tecnológico.</p>
+
 - :computer: &nbsp;Contacta conmigo en **<a href="https://www.linkedin.com/in/diego-alonso-javier-quispe-353642141">[LinkedIn]</a>**
 - 📫 Me puedes escribir a **diegojavierq08@gmail.com**
 - 📝 Estudie el grado de Ingeniería de Sistemas en la Universidad Nacional de San Agustín y Maestría en Ciencias de la Computación en la Universidad Católica San Pablo
