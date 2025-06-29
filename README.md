@@ -8,7 +8,7 @@
 
 - :computer: &nbsp;Contacta conmigo en **<a href="https://www.linkedin.com/in/diego-alonso-javier-quispe-353642141">[LinkedIn]</a>**
 - 📫 Me puedes escribir a **diegojavierq08@gmail.com**
-- 📝 Estudi el grade Ingeniería de Sistemas en la Universidad Nancional de San Agustín y Maestría en Ciencias de la Computación en la Universidad Católica San Pablo
+- 📝 Estudie el grado de Ingeniería de Sistemas en la Universidad Nacional de San Agustín y Maestría en Ciencias de la Computación en la Universidad Católica San Pablo
 - 💬 Pregunta lo que necesites que sabré responder de la mejor manera
 - 	<img src="https://komarev.com/ghpvc/?username=djavier&label=Profile%20views&color=brightgreen&style=plastic" alt="patricio's profile views" /> 
 	<a href="https://github.com/dijaq?tab=followers"><img src="https://img.shields.io/github/followers/djavier?label=Followers&style=social" alt="GitHub Badge"></a>
